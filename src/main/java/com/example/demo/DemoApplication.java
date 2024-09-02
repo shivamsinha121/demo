@@ -9,7 +9,7 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
-		logger.info("the great project is launched !")
+		logger.info("the great project is launched ok !")
 	}
 
 }
