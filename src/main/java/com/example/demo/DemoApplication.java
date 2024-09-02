@@ -1,7 +1,7 @@
 package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;//comment
+import org.springframework.boot.autoconfigure.SpringBootApplication;//comment2
 
 @SpringBootApplication
 public class DemoApplication {
